@@ -14,7 +14,9 @@ This project focuses on utilizing machine learning techniques to predict the eff
      job : type of job
      marital : marital status
      education: qualification of client
-     default: has credit in default? housing: has housing loan? (categorical: 'no','yes','unknown')
+     default: has credit in default? 
+     balance: Account balance of client
+     housing: has housing loan? (categorical: 'no','yes','unknown')
      loan: has personal loan? 
      contact: contact communication type 
      month: last contact month of year
