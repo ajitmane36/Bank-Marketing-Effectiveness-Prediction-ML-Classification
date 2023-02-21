@@ -96,5 +96,5 @@ This project focuses on utilizing machine learning techniques to predict the eff
      - The XGBoost classification model has the highest accuracy, precision, recall, and F1-score of all the models.
      Furthermore, XGBoost has a roc auc score of 0.93, which is very close to one, indicating that the classifier is perfectly capable of differentiating between classes.
      - The XGBoost classification model trained using cross validation is the ideal model and well-trained for predicting whether 
-     the client will subscribe to a term deposit or not due to its high accuracy (0.936126), precision (0.939129),
-     recall (0.934003), F1 score (0.936559), and rou auc score (0.936147), which is close to one.
+     the client will subscribe to a term deposit or not due to its high accuracy (0.936126), precision (0.93),
+     recall (0.93), F1 score (0.93), and rou auc score (0.93), which is close to one.
