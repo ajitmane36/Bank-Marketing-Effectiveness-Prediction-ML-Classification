@@ -86,7 +86,7 @@ This project focuses on utilizing machine learning techniques to predict the eff
      - Artificial Neaural Networks
 #### <ins>Models Evaluation</ins>
      - Models and their accuracy scores are: Logistic Regression: 0.91; Decision Tree: 0.82; Random Forest: 0.86; Gradient Boosting Machine: 0.92;
-     XGBoost: 0.93; K Nearest Neighbor: 0.91; Naive Bayes: 0.85; Support Vector Machine: 0.91; and Artificial Neural Networks: 0.91.
+     XGBoost: 0.93 ; K Nearest Neighbor: 0.91; Naive Bayes: 0.85; Support Vector Machine: 0.91; and Artificial Neural Networks: 0.91.
      - Model XGBoost tops all classification evaluation metrics among all different implemented models.
 #### <ins>Model Explainability and Feature Importance</ins>
      - The top five features are duration, age, month may, housing, and day, listed in decreasing order of their impact on a model's predictions. 
