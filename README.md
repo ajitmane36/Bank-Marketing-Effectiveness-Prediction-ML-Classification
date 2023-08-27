@@ -1,4 +1,4 @@
-# Bank-Marketing-Effectiveness-Prediction-ML-Classification..
+# Bank-Marketing-Effectiveness-Prediction-ML-Classification...
 This project focuses on utilizing machine learning techniques to predict the effectiveness of bank marketing campaign. Logistic Regression, Decision Tree, Random Forest, Gradient Boosting Machine, XGBoost, K Nearest Neighbor, Naive Bayes, Support Vector Machine, and Artificial Neaural Networks algorithms are used to build a model to predict whether clients will subscribe to a term deposit or not.
 
 #### <ins>Problem Statement</ins>
